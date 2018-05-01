@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.teleonome</groupId>
+  <artifactId>organbuilder</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+  <name>organbuilder</name>
+  <properties>
+        <teleonome.name>Sento</teleonome.name>
+  </properties>
+  <modules>
+    <module>../framework</module>
+	<module>../TeleonomeHypothalamus</module>   
+    <module>../medula</module>    
+    <module>../heart</module>
+    <module>../teleonomewebapp</module>
+    <module>../hippocrates</module>
+    <module>../objectsizer</module>    
+  </modules> 
+</project>
+

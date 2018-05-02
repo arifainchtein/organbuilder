@@ -15,8 +15,7 @@
     <module>../medula</module>    
     <module>../heart</module>
     <module>../teleonomewebapp</module>
-    <module>../hippocrates</module>
-    <module>../objectsizer</module>    
+    <module>../hippocrates</module>   
   </modules> 
 </project>
 

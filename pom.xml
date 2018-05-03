@@ -7,7 +7,7 @@
   <packaging>pom</packaging>
   <name>organbuilder</name>
   <properties>
-        <teleonome.name>Ra</teleonome.name>
+        <teleonome.name>Sento</teleonome.name>
   </properties>
   <modules>
     <module>../framework</module>

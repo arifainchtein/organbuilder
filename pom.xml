@@ -7,13 +7,13 @@
   <packaging>pom</packaging>
   <name>organbuilder</name>
   <properties>
-        <teleonome.name>Sento</teleonome.name>
+        <teleonome.name>Cleo</teleonome.name>
   </properties>
   <modules>
     <module>../framework</module>
 	<module>../TeleonomeHypothalamus</module>   
     <module>../medula</module>    
-    <module>../heart</module>
+   <!-- <module>../heart</module>-->
     <module>../teleonomewebapp</module>
     <module>../hippocrates</module>   
   </modules> 

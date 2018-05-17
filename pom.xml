@@ -13,7 +13,7 @@
     <module>../framework</module>
 	<module>../TeleonomeHypothalamus</module>   
     <module>../medula</module>    
-   <!-- <module>../heart</module>-->
+    <module>../heart</module>
     <module>../teleonomewebapp</module>
     <module>../hippocrates</module>   
   </modules> 

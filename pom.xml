@@ -7,7 +7,7 @@
   <packaging>pom</packaging>
   <name>organbuilder</name>
   <properties>
-        <teleonome.name>Cleo</teleonome.name>
+        <teleonome.name>Egg</teleonome.name>
   </properties>
   <modules>
     <module>../framework</module>

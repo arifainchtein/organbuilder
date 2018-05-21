@@ -17,6 +17,8 @@
     <module>../teleonomewebapp</module>
     <module>../hippocrates</module>   
     <module>../fertilizer</module>   
+    <module>../serialtalker</module>   
+    
   </modules> 
 </project>
 

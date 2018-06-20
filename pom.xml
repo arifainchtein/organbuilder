@@ -18,7 +18,7 @@
     <module>../hippocrates</module>   
     <module>../fertilizer</module>   
     <module>../serialtalker</module>   
-    <module>../Sertoli</module>   
+    <module>../sertoli</module>   
     
   </modules> 
 </project>

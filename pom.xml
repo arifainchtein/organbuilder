@@ -18,7 +18,8 @@
     <module>../hippocrates</module>   
     <module>../fertilizer</module>   
     <module>../serialtalker</module>   
-    <module>../sertoli</module>   
+    <module>../sertoli</module>
+    <module>../birthcertificatecreator</module>   
     
   </modules> 
 </project>

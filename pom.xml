@@ -25,10 +25,16 @@
     </repository>
 </repositories>
   <modules>
+    <!-- deviceviews (2026-11-01): not an organ, a web library teleonomewebapp depends on (the device cards,
+         popups and charts, shared with devices.digitalstables.com). Clone github.com/arifainchtein/deviceviews
+         next to the organs. -->
+    <module>../deviceviews</module>
     <module>../framework</module>
     <module>../TeleonomeHypothalamus</module>   
     <module>../medula</module>    
     <module>../heart</module>
+    <module>../hippocampus</module>
+    <module>../cerebellum</module>
     <module>../teleonomewebapp</module>
     <module>../hippocrates</module>   
     <module>../fertilizer</module>   
